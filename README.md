@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hankstraz
+- 👀 I’m interested in web and game development, I'm new but I like to learn new things!
+- 🌱 I’m currently learning Maven
+- 💞️ I’m looking to collaborate on new projects or learning experiences
+- 📫 My email is sergiolugo1995@gmail.com
